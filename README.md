@@ -38,5 +38,11 @@ torch: 2.1.0
 # Reference
 If you use our code or datasets, please cite:
 ```
-
+@inproceedings{yu2024robust,
+  title={Robust Link Prediction over Noisy Hyper-Relational Knowledge Graphs via Active Learning},
+  author={Yu, Weijian and Yang, Jie and Yang, Dingqi},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={},
+  year={2024}
+}
 ```
