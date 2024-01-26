@@ -60,7 +60,7 @@ NYLON_g.add_arg('attention_dropout_prob', type=float, default=0.1, help="")
 NYLON_g.add_arg('num_edges', type=int, default=6, help="")
 
 NYLON_g.add_arg('noise_level', type=float, default=1.0, help="")
-NYLON_g.add_arg('active_sample_per_epoch', type=float, default=0.025, help="")
+NYLON_g.add_arg('active_sample_per_epoch', type=float, default=0.0025, help="")
 NYLON_g.add_arg('meta_lr', type=float, default=0.1, help="")
 NYLON_g.add_arg('error_detection_every_x_epochs', type=int, default=1, help="")
 NYLON_g.add_arg('aug_amount', type=int, default=0, help="")
