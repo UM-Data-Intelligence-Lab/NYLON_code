@@ -1,7 +1,7 @@
 # NYLON (Robust HKG Model)
 
-NYLON is a robust link prediction model over noisy hyper-relational knowledge graph. Trained with active learning strategy, NYLON evaluates the confidences of facts and rebalances the loss for each fact with its confidence to alleviate the negative impact of less confident facts.  Please see the details in our paper below:
-- Weijian Yu, Jie Yang and Dingqi Yang. 2024. Robust Link Prediction over Noisy Hyper-Relational Knowledge Graphs via Active Learning. In Proceedings of the of the ACM Web Conference 2024 (WWW '23), May 13-17, 2024, Singapore.
+NYLON is a robust link prediction model over noisy hyper-relational knowledge graphs. Trained with an active learning strategy, NYLON evaluates the confidence of facts and rebalances the loss for each fact with its confidence to alleviate the negative impact of less confident facts.  Please see the details in our paper below:
+- Weijian Yu, Jie Yang and Dingqi Yang. 2024. Robust Link Prediction over Noisy Hyper-Relational Knowledge Graphs via Active Learning. In Proceedings of the ACM Web Conference 2024 (WWW'24), May 13-17, 2024, Singapore.
 
 ## How to run the code
 ###### Train and evaluate model (suggested parameters for JF17k, WikiPeople and WD50K dataset)
